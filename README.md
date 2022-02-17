@@ -1,4 +1,4 @@
-### Hi there 👋
+👋 I'm Anna Ptasznik (she/her)
 
 <!--
 **annaptasznik/annaptasznik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
